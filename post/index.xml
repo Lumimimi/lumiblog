@@ -7,7 +7,15 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
         <copyright>Example Person</copyright>
-        <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://lumimimi.github.io/lumiblog/post/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Thu, 14 Nov 2024 09:08:55 +0100</lastBuildDate><atom:link href="https://lumimimi.github.io/lumiblog/post/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Test11141</title>
+        <link>https://lumimimi.github.io/lumiblog/p/test11141/</link>
+        <pubDate>Thu, 14 Nov 2024 09:08:55 +0100</pubDate>
+        
+        <guid>https://lumimimi.github.io/lumiblog/p/test11141/</guid>
+        <description></description>
+        </item>
+        <item>
         <title>Markdown Syntax Guide</title>
         <link>https://lumimimi.github.io/lumiblog/p/markdown-syntax-guide/</link>
         <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
