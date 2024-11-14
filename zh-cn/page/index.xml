@@ -6,13 +6,17 @@
         <description>Recent content in Pages on 演示站点</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
-        <copyright>Example Person</copyright><atom:link href="https://lumimimi.github.io/lumiblog/zh-cn/page/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>关于</title>
-        <link>https://lumimimi.github.io/lumiblog/zh-cn/%E5%85%B3%E4%BA%8E/</link>
-        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        <copyright>Example Person</copyright>
+        <lastBuildDate>Thu, 14 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://lumimimi.github.io/lumiblog/zh-cn/page/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>关于我</title>
+        <link>https://lumimimi.github.io/lumiblog/zh-cn/%E5%85%B3%E4%BA%8E%E6%88%91/</link>
+        <pubDate>Thu, 14 Nov 2024 00:00:00 +0000</pubDate>
         
-        <guid>https://lumimimi.github.io/lumiblog/zh-cn/%E5%85%B3%E4%BA%8E/</guid>
-        <description>&lt;p&gt;This is a test page for i18n support.&lt;/p&gt;
+        <guid>https://lumimimi.github.io/lumiblog/zh-cn/%E5%85%B3%E4%BA%8E%E6%88%91/</guid>
+        <description>&lt;p&gt;Hi! 我是 Lumi，一个充满好奇心和热情的编程学习者。😊&lt;/p&gt;
+&lt;p&gt;我一直对科技和创造充满兴趣，从学习 Python、PHP、到 CSS 和 HTML，我正在慢慢踏入编程的世界。这个博客是我的编程学习旅程，也是我记录成长的地方。通过写作和分享，不仅能帮我加深理解，也希望能帮到那些和我一样正在学习的朋友们。&lt;/p&gt;
+&lt;p&gt;我相信学习编程不仅是学会一种技能，更是打破思维边界的过程。费曼学习法是我的学习利器，通过重新组织和输出知识，我不仅能真正掌握每个概念，还能用自己的方式把这些知识分享出来。&lt;/p&gt;
+&lt;p&gt;未来，我希望能发布更多项目，分享我的点滴心得，和大家一起进步！如果你对编程、创造感兴趣，欢迎常来看看～ 🌱&lt;/p&gt;
 </description>
         </item>
         

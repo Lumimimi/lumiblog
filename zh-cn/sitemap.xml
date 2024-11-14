@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://lumimimi.github.io/lumiblog/zh-cn/</loc>
-    <lastmod>2020-09-09T00:00:00+00:00</lastmod>
+    <lastmod>2024-11-14T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -18,6 +18,32 @@
                 rel="alternate"
                 hreflang="zh-cn"
                 href="https://lumimimi.github.io/lumiblog/zh-cn/"
+                />
+  </url><url>
+    <loc>https://lumimimi.github.io/lumiblog/zh-cn/page/</loc>
+    <lastmod>2024-11-14T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://lumimimi.github.io/lumiblog/page/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://lumimimi.github.io/lumiblog/zh-cn/page/"
+                />
+  </url><url>
+    <loc>https://lumimimi.github.io/lumiblog/zh-cn/%E5%85%B3%E4%BA%8E%E6%88%91/</loc>
+    <lastmod>2024-11-14T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://lumimimi.github.io/lumiblog/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://lumimimi.github.io/lumiblog/zh-cn/%E5%85%B3%E4%BA%8E%E6%88%91/"
                 />
   </url><url>
     <loc>https://lumimimi.github.io/lumiblog/zh-cn/categories/</loc>
@@ -75,18 +101,6 @@
     <loc>https://lumimimi.github.io/lumiblog/zh-cn/categories/%E6%B5%8B%E8%AF%95/</loc>
     <lastmod>2020-09-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://lumimimi.github.io/lumiblog/zh-cn/page/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://lumimimi.github.io/lumiblog/page/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://lumimimi.github.io/lumiblog/zh-cn/page/"
-                />
-  </url><url>
     <loc>https://lumimimi.github.io/lumiblog/zh-cn/tags/</loc>
     <xhtml:link
                 rel="alternate"
@@ -102,18 +116,6 @@
                 rel="alternate"
                 hreflang="zh-cn"
                 href="https://lumimimi.github.io/lumiblog/zh-cn/tags/"
-                />
-  </url><url>
-    <loc>https://lumimimi.github.io/lumiblog/zh-cn/%E5%85%B3%E4%BA%8E/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://lumimimi.github.io/lumiblog/about/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://lumimimi.github.io/lumiblog/zh-cn/%E5%85%B3%E4%BA%8E/"
                 />
   </url>
 </urlset>
