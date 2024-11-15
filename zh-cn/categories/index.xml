@@ -1,13 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>Categories on 演示站点</title>
+        <title>Categories on Lumi的博客</title>
         <link>https://lumimimi.github.io/lumiblog/zh-cn/categories/</link>
-        <description>Recent content in Categories on 演示站点</description>
+        <description>Recent content in Categories on Lumi的博客</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
-        <copyright>Example Person</copyright>
-        <lastBuildDate>Wed, 09 Sep 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://lumimimi.github.io/lumiblog/zh-cn/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <copyright>Sophie</copyright>
+        <lastBuildDate>Fri, 15 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://lumimimi.github.io/lumiblog/zh-cn/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Programming</title>
+        <link>https://lumimimi.github.io/lumiblog/zh-cn/categories/programming/</link>
+        <pubDate>Fri, 15 Nov 2024 00:00:00 +0000</pubDate>
+        
+        <guid>https://lumimimi.github.io/lumiblog/zh-cn/categories/programming/</guid>
+        <description></description>
+        </item>
+        <item>
         <title>Test</title>
         <link>https://lumimimi.github.io/lumiblog/zh-cn/categories/test/</link>
         <pubDate>Wed, 09 Sep 2020 00:00:00 +0000</pubDate>

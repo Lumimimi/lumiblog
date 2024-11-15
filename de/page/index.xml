@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Pages on myblog</title>
+        <link>https://lumimimi.github.io/lumiblog/de/page/</link>
+        <description>Recent content in Pages on myblog</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>de</language>
+        <copyright>Sophie</copyright>
+        <lastBuildDate>Thu, 14 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://lumimimi.github.io/lumiblog/de/page/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Über mich</title>
+        <link>https://lumimimi.github.io/lumiblog/de/%C3%BCber-mich/</link>
+        <pubDate>Thu, 14 Nov 2024 00:00:00 +0000</pubDate>
+        
+        <guid>https://lumimimi.github.io/lumiblog/de/%C3%BCber-mich/</guid>
+        <description>&lt;p&gt;Hallo! Ich bin Lumi, eine begeisterte Programmieranfängerin mit großer Neugier und viel Leidenschaft. 😊&lt;/p&gt;
+&lt;p&gt;Ich habe schon immer eine große Faszination für Technik und das Schaffen von Neuem. Von Python über PHP bis hin zu CSS und HTML – ich bin Schritt für Schritt auf meiner Reise in die Programmierwelt. Dieser Blog ist mein persönliches Tagebuch, in dem ich meine Fortschritte dokumentiere. Durch das Schreiben und Teilen hoffe ich nicht nur, mein Wissen zu festigen, sondern auch anderen Lernenden weiterzuhelfen.&lt;/p&gt;
+&lt;p&gt;Für mich bedeutet das Programmieren-Lernen nicht nur, eine neue Fähigkeit zu erlernen, sondern auch, meinen Horizont zu erweitern. Die Feynman-Lernmethode ist mein treuer Begleiter: indem ich Wissen neu organisiere und wiedergebe, verstehe ich die Konzepte besser und kann sie auf meine Weise mit anderen teilen.&lt;/p&gt;
+&lt;p&gt;In der Zukunft möchte ich noch viele Projekte veröffentlichen, meine Erfahrungen teilen und gemeinsam mit euch wachsen. Wenn ihr euch für Programmierung und Kreativität interessiert, seid ihr herzlich eingeladen, immer wieder vorbeizuschauen! 🌱&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>
