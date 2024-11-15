@@ -6,7 +6,7 @@
         <description>Recent content in Blog on myblog</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>de</language>
-        <lastBuildDate>Fri, 15 Nov 2024 20:24:56 +0100</lastBuildDate><atom:link href="https://lumimimi.github.io/lumiblog/de/categories/blog/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Fri, 15 Nov 2024 23:01:08 +0100</lastBuildDate><atom:link href="https://lumimimi.github.io/lumiblog/de/categories/blog/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>GitHub Pages &#43; Hugo</title>
         <link>https://lumimimi.github.io/lumiblog/de/p/blog-hugo-github-pages/</link>
         <pubDate>Fri, 15 Nov 2024 00:00:00 +0000</pubDate>
@@ -20,9 +20,9 @@ Um loszulegen, benötigst du folgende Tools:&lt;/p&gt;
 &lt;li&gt;Hugo: Ein statischer Website-Generator, um deinen Blog zu erstellen.&lt;/li&gt;
 &lt;li&gt;Hugo-Theme: Ein hübsches Theme, das deinem Blog den letzten Schliff verleiht.&lt;/li&gt;
 &lt;li&gt;GitHub: Zur Verwaltung deines Codes und Blog-Inhalts.&lt;/li&gt;
-&lt;li&gt;GitHub Desktop: Ein benutzerfreundlicher Git-Client, der die Synchronisation erleichtert.
-💡 Tipp: Die Installation dieser Tools ist ganz einfach. Die offiziellen Websites bieten ausführliche Anleitungen.&lt;/li&gt;
+&lt;li&gt;GitHub Desktop: Ein benutzerfreundlicher Git-Client, der die Synchronisation erleichtert.&lt;/li&gt;
 &lt;/ol&gt;
+&lt;p&gt;💡 Tipp: Die Installation dieser Tools ist ganz einfach. Die offiziellen Websites bieten ausführliche Anleitungen.&lt;/p&gt;
 &lt;p&gt;🛠️ Der Konfigurationsprozess&lt;/p&gt;
 &lt;p&gt;Die Konfiguration kann anfangs etwas kompliziert sein. Aber keine Sorge, hier gibt es ein großartiges Tutorial, das jeden Schritt erklärt:
 👉 Verwendung von Hugo zur Erstellung statischer Seiten und kostenloses Hosting auf GitHub Pages(&lt;a class=&#34;link&#34; href=&#34;https://letere-gzj.github.io/hugo-stack/p/hugo/custom-blog/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
@@ -33,8 +33,6 @@ Nachdem du alle Schritte abgeschlossen hast, kannst du dein lokales Repository i
 &lt;p&gt;✨ Fazit
 Mit Hugo und GitHub Pages einen Blog zu erstellen, ist nicht nur kostengünstig, sondern auch eine tolle Möglichkeit, deinen Lernprozess und deine Projekte zu präsentieren. Programmieren zu lernen macht unglaublich Spaß – jedes abgeschlossene Projekt ist ein kleiner Erfolg!
 Wenn du dich für solche Inhalte interessierst, schau doch regelmäßig auf meinem Blog vorbei. Ich werde mehr über meine Lern- und Wachstumserfahrungen teilen! 💻🌟&lt;/p&gt;
-&lt;p&gt;👉 &lt;a class=&#34;link&#34; href=&#34;https://letere-gzj.github.io/hugo-stack/p/hugo/custom-blog/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;使用 Hugo 工具生成静态页面，然后在 GitHub 上部署静态页面，来免费搭建自己的博客&lt;/a&gt;&lt;/p&gt;
 </description>
         </item>
         

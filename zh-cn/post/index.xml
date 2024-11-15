@@ -6,7 +6,34 @@
         <description>Recent content in Posts on Lumi的博客</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
-        <lastBuildDate>Fri, 15 Nov 2024 20:24:56 +0100</lastBuildDate><atom:link href="https://lumimimi.github.io/lumiblog/zh-cn/post/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Fri, 15 Nov 2024 23:01:08 +0100</lastBuildDate><atom:link href="https://lumimimi.github.io/lumiblog/zh-cn/post/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>GitHub Pages &#43; Hugo 搭建个人博客</title>
+        <link>https://lumimimi.github.io/lumiblog/zh-cn/p/test-chinese/</link>
+        <pubDate>Fri, 15 Nov 2024 00:00:00 +0000</pubDate>
+        
+        <guid>https://lumimimi.github.io/lumiblog/zh-cn/p/test-chinese/</guid>
+        <description>&lt;img src="https://lumimimi.github.io/lumiblog/p/test-chinese/helena-hertz-wWZzXlDpMog-unsplash.jpg" alt="Featured image of post GitHub Pages &#43; Hugo 搭建个人博客" /&gt;&lt;p&gt;🍃 自学记录
+今天又是充满成就感的一天！终于弄明白了如何使用 Hugo 主题，在 GitHub 上成功部署自己的博客啦！下面是我的记录，希望能帮到和我一样的小伙伴。&lt;/p&gt;
+&lt;p&gt;🎯 准备工作
+要完成部署，需要先安装以下工具：&lt;/p&gt;
+&lt;p&gt;Hugo：静态网站生成器，用来生成博客页面。
+Hugo Theme：一个漂亮的主题，为你的博客增添色彩。
+GitHub：托管你的代码和博客内容。
+GitHub Desktop：一款简洁易用的 Git 客户端，方便同步代码。
+💡 小提示：以上工具的安装都非常简单，每个官网都有详细的安装指南。&lt;/p&gt;
+&lt;p&gt;🛠️ 配置过程
+说实话，配置部分还是有点复杂的，但别担心，这里有一个超级详细的教程可以参考：&lt;/p&gt;
+&lt;p&gt;👉 &lt;a class=&#34;link&#34; href=&#34;https://letere-gzj.github.io/hugo-stack/p/hugo/custom-blog/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;使用 Hugo 工具生成静态页面，然后在 GitHub 上部署静态页面，来免费搭建自己的博客&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;这个教程涵盖了从零开始搭建博客的每一步，让你省下很多摸索的时间。&lt;/p&gt;
+&lt;p&gt;💡 实用小补充
+完成所有配置后，你可以在 GitHub Desktop 中添加你的本地仓库。它会自动识别你仓库的名字，接下来就可以用 GitHub Desktop 来同步文件了，非常方便，再也不用手动操作啦！&lt;/p&gt;
+&lt;p&gt;✨ 总结
+利用 Hugo 和 GitHub Pages 搭建博客，不仅节省成本，还能展示你的学习过程和作品。学习编程真的很有趣，每次完成一个小项目，都会觉得特别满足！&lt;/p&gt;
+&lt;p&gt;如果你也对这类内容感兴趣，可以多多关注我的博客，我会分享更多学习和成长的记录哦！💻🌟&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>if conditional</title>
         <link>https://lumimimi.github.io/lumiblog/zh-cn/p/if-conditional/</link>
         <pubDate>Fri, 15 Nov 2024 00:00:00 +0000</pubDate>
@@ -59,33 +86,6 @@
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;/div&gt;
 &lt;/div&gt;</description>
-        </item>
-        <item>
-        <title>GitHub Pages &#43; Hugo 搭建个人博客</title>
-        <link>https://lumimimi.github.io/lumiblog/zh-cn/p/test-chinese/</link>
-        <pubDate>Wed, 09 Sep 2020 00:00:00 +0000</pubDate>
-        
-        <guid>https://lumimimi.github.io/lumiblog/zh-cn/p/test-chinese/</guid>
-        <description>&lt;img src="https://lumimimi.github.io/lumiblog/p/test-chinese/helena-hertz-wWZzXlDpMog-unsplash.jpg" alt="Featured image of post GitHub Pages &#43; Hugo 搭建个人博客" /&gt;&lt;p&gt;🍃 自学记录
-今天又是充满成就感的一天！终于弄明白了如何使用 Hugo 主题，在 GitHub 上成功部署自己的博客啦！下面是我的记录，希望能帮到和我一样的小伙伴。&lt;/p&gt;
-&lt;p&gt;🎯 准备工作
-要完成部署，需要先安装以下工具：&lt;/p&gt;
-&lt;p&gt;Hugo：静态网站生成器，用来生成博客页面。
-Hugo Theme：一个漂亮的主题，为你的博客增添色彩。
-GitHub：托管你的代码和博客内容。
-GitHub Desktop：一款简洁易用的 Git 客户端，方便同步代码。
-💡 小提示：以上工具的安装都非常简单，每个官网都有详细的安装指南。&lt;/p&gt;
-&lt;p&gt;🛠️ 配置过程
-说实话，配置部分还是有点复杂的，但别担心，这里有一个超级详细的教程可以参考：&lt;/p&gt;
-&lt;p&gt;👉 &lt;a class=&#34;link&#34; href=&#34;https://letere-gzj.github.io/hugo-stack/p/hugo/custom-blog/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;使用 Hugo 工具生成静态页面，然后在 GitHub 上部署静态页面，来免费搭建自己的博客&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;这个教程涵盖了从零开始搭建博客的每一步，让你省下很多摸索的时间。&lt;/p&gt;
-&lt;p&gt;💡 实用小补充
-完成所有配置后，你可以在 GitHub Desktop 中添加你的本地仓库。它会自动识别你仓库的名字，接下来就可以用 GitHub Desktop 来同步文件了，非常方便，再也不用手动操作啦！&lt;/p&gt;
-&lt;p&gt;✨ 总结
-利用 Hugo 和 GitHub Pages 搭建博客，不仅节省成本，还能展示你的学习过程和作品。学习编程真的很有趣，每次完成一个小项目，都会觉得特别满足！&lt;/p&gt;
-&lt;p&gt;如果你也对这类内容感兴趣，可以多多关注我的博客，我会分享更多学习和成长的记录哦！💻🌟&lt;/p&gt;
-</description>
         </item>
         
     </channel>
