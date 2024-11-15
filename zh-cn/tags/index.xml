@@ -6,7 +6,7 @@
         <description>Recent content in Tags on Lumi的博客</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
-        <lastBuildDate>Fri, 15 Nov 2024 23:01:08 +0100</lastBuildDate><atom:link href="https://lumimimi.github.io/lumiblog/zh-cn/tags/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sat, 16 Nov 2024 00:06:56 +0100</lastBuildDate><atom:link href="https://lumimimi.github.io/lumiblog/zh-cn/tags/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Github Pages</title>
         <link>https://lumimimi.github.io/lumiblog/zh-cn/tags/github-pages/</link>
         <pubDate>Fri, 15 Nov 2024 00:00:00 +0000</pubDate>
@@ -20,6 +20,22 @@
         <pubDate>Fri, 15 Nov 2024 00:00:00 +0000</pubDate>
         
         <guid>https://lumimimi.github.io/lumiblog/zh-cn/tags/hugo/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>PHP</title>
+        <link>https://lumimimi.github.io/lumiblog/zh-cn/tags/php/</link>
+        <pubDate>Fri, 15 Nov 2024 00:00:00 +0000</pubDate>
+        
+        <guid>https://lumimimi.github.io/lumiblog/zh-cn/tags/php/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>SQL</title>
+        <link>https://lumimimi.github.io/lumiblog/zh-cn/tags/sql/</link>
+        <pubDate>Fri, 15 Nov 2024 00:00:00 +0000</pubDate>
+        
+        <guid>https://lumimimi.github.io/lumiblog/zh-cn/tags/sql/</guid>
         <description></description>
         </item>
         

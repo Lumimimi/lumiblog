@@ -6,13 +6,13 @@
         <description>Recent content in Hugo on myblog</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>de</language>
-        <lastBuildDate>Fri, 15 Nov 2024 23:01:08 +0100</lastBuildDate><atom:link href="https://lumimimi.github.io/lumiblog/de/tags/hugo/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sat, 16 Nov 2024 00:06:56 +0100</lastBuildDate><atom:link href="https://lumimimi.github.io/lumiblog/de/tags/hugo/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>GitHub Pages &#43; Hugo</title>
         <link>https://lumimimi.github.io/lumiblog/de/p/blog-hugo-github-pages/</link>
         <pubDate>Fri, 15 Nov 2024 00:00:00 +0000</pubDate>
         
         <guid>https://lumimimi.github.io/lumiblog/de/p/blog-hugo-github-pages/</guid>
-        <description>&lt;img src="https://lumimimi.github.io/lumiblog/p/test-chinese/helena-hertz-wWZzXlDpMog-unsplash.jpg" alt="Featured image of post GitHub Pages &#43; Hugo" /&gt;&lt;p&gt;🍃 Selbstlern-Notizen
+        <description>&lt;p&gt;🍃 Selbstlern-Notizen
 Heute war wieder ein produktiver Tag! Ich habe endlich verstanden, wie man mit einem Hugo-Theme erfolgreich einen Blog auf GitHub Pages deployt. Hier sind meine Notizen, um anderen in ähnlichen Situationen zu helfen.&lt;/p&gt;
 &lt;p&gt;🎯 Vorbereitung
 Um loszulegen, benötigst du folgende Tools:&lt;/p&gt;

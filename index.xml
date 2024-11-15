@@ -11,24 +11,27 @@
         <pubDate>Fri, 15 Nov 2024 00:00:00 +0000</pubDate>
         
         <guid>https://lumimimi.github.io/lumiblog/p/test-chinese/</guid>
-        <description>&lt;img src="https://lumimimi.github.io/lumiblog/p/test-chinese/helena-hertz-wWZzXlDpMog-unsplash.jpg" alt="Featured image of post GitHub Pages &#43; Hugo Blog" /&gt;&lt;p&gt;🍃 Self-Learning Notes
-Today was another productive day! I finally figured out how to use a Hugo theme to successfully deploy my blog on GitHub Pages. Here’s a quick guide to help anyone who’s on a similar journey.&lt;/p&gt;
-&lt;p&gt;🎯 Preparation
-Before you start, you’ll need the following tools:&lt;/p&gt;
-&lt;p&gt;Hugo: A static site generator to create your blog.
-Hugo Theme: A stylish theme to make your blog look amazing.
-GitHub: For hosting your code and blog content.
-GitHub Desktop: A user-friendly Git client to sync your files with ease.
-💡 Pro Tip: Installing these tools is straightforward—just follow the instructions on their official websites.&lt;/p&gt;
-&lt;p&gt;🛠️ Configuration Process
-Setting up everything might feel a bit tricky at first. But don’t worry, here’s a super detailed tutorial to guide you through every step:&lt;/p&gt;
-&lt;p&gt;👉 Generate static pages with Hugo and host them for free on GitHub Pages(&lt;a class=&#34;link&#34; href=&#34;https://letere-gzj.github.io/hugo-stack/p/hugo/custom-blog/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;https://letere-gzj.github.io/hugo-stack/p/hugo/custom-blog/&lt;/a&gt;)
-This tutorial covers everything from the basics to deploying your blog seamlessly.&lt;/p&gt;
-&lt;p&gt;💡 Useful Tips
-Once everything is set up, you can add your local repository to GitHub Desktop. It automatically detects the name of your repository, making it super convenient to sync your changes. No more manual uploading—just a few clicks and you&amp;rsquo;re done!&lt;/p&gt;
-&lt;p&gt;✨ Conclusion
-Creating a blog with Hugo and GitHub Pages is not only cost-effective but also a fantastic way to showcase your learning journey and projects. Learning to code is so much fun—every completed project feels like a small victory!&lt;/p&gt;
+        <description>&lt;p&gt;&lt;span style=&#34;background:rgba(3, 135, 102, 0.2)&#34;&gt;🍃 Self-Learning Notes&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Today was another productive day! I finally figured out how to use a Hugo theme to successfully deploy my blog on GitHub Pages. Here’s a quick guide to help anyone who’s on a similar journey.&lt;/p&gt;
+&lt;p&gt;&lt;span style=&#34;background:rgba(3, 135, 102, 0.2)&#34;&gt;🎯 Preparation&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Before you start, you’ll need the following tools:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;font color=&#34;#76923c&#34;&gt;Hugo&lt;/font&gt;: A static site generator to create your blog.&lt;/li&gt;
+&lt;li&gt;&lt;font color=&#34;#76923c&#34;&gt;Hugo&lt;/font&gt; &lt;font color=&#34;#76923c&#34;&gt;Theme&lt;/font&gt;: A stylish theme to make your blog look amazing.&lt;/li&gt;
+&lt;li&gt;&lt;font color=&#34;#76923c&#34;&gt;GitHub&lt;/font&gt;: For hosting your code and blog content.&lt;/li&gt;
+&lt;li&gt;&lt;font color=&#34;#76923c&#34;&gt;GitHub Desktop&lt;/font&gt;: A user-friendly Git client to sync your files with ease.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;span style=&#34;background:rgba(3, 135, 102, 0.2)&#34;&gt;💡&lt;span style=&#34;background:rgba(3, 135, 102, 0.2)&#34;&gt; Pro Tip&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Installing these tools is straightforward—just follow the instructions on their official websites.&lt;/p&gt;
+&lt;p&gt;🛠️ Configuration Process&lt;/p&gt;
+&lt;p&gt;Setting up everything might feel a bit tricky at first. But don’t worry, here’s a super detailed tutorial to guide you through every step:&lt;/p&gt;
+&lt;p&gt;&lt;span style=&#34;background:rgba(3, 135, 102, 0.2)&#34;&gt;👉&lt;/span&gt;&lt;span style=&#34;background:rgba(3, 135, 102, 0.2)&#34;&gt; &lt;strong&gt;&lt;a class=&#34;link&#34; href=&#34;https://letere-gzj.github.io/hugo-stack/p/hugo/custom-blog/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Generate static pages with Hugo and host them for free on GitHub Pages&lt;/a&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;This tutorial covers everything from the basics to deploying your blog seamlessly.&lt;/p&gt;
+&lt;p&gt;&lt;span style=&#34;background:rgba(3, 135, 102, 0.2)&#34;&gt;&lt;span style=&#34;background:rgba(3, 135, 102, 0.2)&#34;&gt;💡&lt;/span&gt; &lt;span style=&#34;background:rgba(3, 135, 102, 0.2)&#34;&gt;Useful Tips&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Once everything is set up, you can add your local repository to GitHub Desktop. It automatically detects the name of your repository, making it super convenient to sync your changes. No more manual uploading—just a few clicks and you&amp;rsquo;re done!&lt;/p&gt;
+&lt;p&gt;&lt;span style=&#34;background:rgba(3, 135, 102, 0.2)&#34;&gt;✨ &lt;/span&gt;&lt;span style=&#34;background:rgba(3, 135, 102, 0.2)&#34;&gt;Conclusion&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Creating a blog with Hugo and GitHub Pages is not only cost-effective but also a fantastic way to showcase your learning journey and projects. Learning to code is so much fun—every completed project feels like a small victory!&lt;/p&gt;
 &lt;p&gt;If you’re interested in this kind of content, feel free to check back on my blog. I’ll be sharing more about my learning experiences and growth journey! 💻🌟
 🎉 Credits&lt;/p&gt;
 </description>
@@ -98,10 +101,37 @@ Use &lt;code&gt;$conn-&amp;gt;query($sql)&lt;/code&gt; to execute the query and 
         <pubDate>Thu, 14 Nov 2024 00:00:00 +0000</pubDate>
         
         <guid>https://lumimimi.github.io/lumiblog/about/</guid>
-        <description>&lt;p&gt;Hi! I’m Lumi, a curious and passionate programming learner. 😊&lt;/p&gt;
-&lt;p&gt;I&amp;rsquo;ve always been fascinated by technology and the power to create. From Python and PHP to CSS and HTML, I&amp;rsquo;m gradually stepping into the world of programming. This blog is my learning journal where I document my progress. By writing and sharing, I hope not only to deepen my understanding but also to help others who are on a similar journey.&lt;/p&gt;
-&lt;p&gt;For me, learning to code is more than just acquiring a skill; it’s a way to expand my horizons. The Feynman Technique is my favorite learning tool—by reorganizing and explaining knowledge, I understand concepts better and can share them in my own way.&lt;/p&gt;
-&lt;p&gt;In the future, I hope to publish more projects, share my experiences, and grow together with all of you! If you&amp;rsquo;re interested in coding and creativity, feel free to stop by often. 🌱&lt;/p&gt;
+        <description>&lt;h1 id=&#34;hi-im-lumi-&#34;&gt;Hi! I&amp;rsquo;m &lt;strong&gt;Lumi&lt;/strong&gt; 👩‍💻
+&lt;/h1&gt;&lt;p&gt;A curious and passionate learner, building my own little universe with code!✨&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;-font-color76b041what-im-currently-learningfont-&#34;&gt;💻 &lt;font color=&#34;#76b041&#34;&gt;What I’m currently learning&lt;/font&gt; 🌱
+&lt;/h3&gt;&lt;p&gt;My skill tree is expanding every day! Here&amp;rsquo;s what I&amp;rsquo;m focusing on for work and growth:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;🌟 &lt;strong&gt;PHP&lt;/strong&gt;: A flexible backend language, perfect for building functional websites.&lt;/li&gt;
+&lt;li&gt;🎨 &lt;strong&gt;CSS&lt;/strong&gt; and &lt;strong&gt;HTML&lt;/strong&gt;: Making websites beautiful and alive with style and structure.&lt;/li&gt;
+&lt;li&gt;📊 &lt;strong&gt;PHPSpreadsheet&lt;/strong&gt;: Handling complex tables and visualizing data like a pro.&lt;/li&gt;
+&lt;li&gt;🛢️ &lt;strong&gt;SQL&lt;/strong&gt;: Mastering databases and finding the hidden gems of information.&lt;/li&gt;
+&lt;li&gt;🔧 &lt;strong&gt;Learning at full speed – driven by work needs!&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;I’m also leveling up my language skills:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;🇩🇪 &lt;strong&gt;German&lt;/strong&gt; – to tackle everyday challenges and integrate better.&lt;/li&gt;
+&lt;li&gt;🇺🇸 &lt;strong&gt;English&lt;/strong&gt; – to dive deeper into programming and technology.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;-font-color76b041my-programming-journeyfont&#34;&gt;✨ &lt;font color=&#34;#76b041&#34;&gt;My programming journey&lt;/font&gt;
+&lt;/h3&gt;&lt;p&gt;Step by step, I’m diving into the vast world of programming, filled with excitement and challenges.&lt;br&gt;
+This blog is my personal journal, where I document my growth and share my experiences to inspire others.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;💡 &lt;strong&gt;Writing and sharing&lt;/strong&gt;: Helps me deepen my understanding and support fellow learners.&lt;/li&gt;
+&lt;li&gt;🔄 &lt;strong&gt;Organizing knowledge&lt;/strong&gt;: Breaking down complex concepts in my own words to solidify my skills.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;-my-vision-for-the-future-grow-together-with-you&#34;&gt;🌈 &lt;strong&gt;My vision for the future: Grow together with you!&lt;/strong&gt;
+&lt;/h3&gt;&lt;p&gt;Programming isn’t just a skill to me – it’s an exciting journey into a world full of endless possibilities!&lt;br&gt;
+In the future, I hope to release interesting projects and share my experiences, learning and growing with all of you.&lt;/p&gt;
+&lt;p&gt;If you’re as passionate about &lt;strong&gt;coding and creativity&lt;/strong&gt; as I am, you’re in the right place.&lt;br&gt;
+Let’s explore the world together with code and turn our dreams into reality! 💻✨&lt;/p&gt;
 </description>
         </item>
         <item>
@@ -118,26 +148,7 @@ Use &lt;code&gt;$conn-&amp;gt;query($sql)&lt;/code&gt; to execute the query and 
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
         <guid>https://lumimimi.github.io/lumiblog/links/</guid>
-        <description>&lt;p&gt;To use this feature, add &lt;code&gt;links&lt;/code&gt; section to frontmatter.&lt;/p&gt;
-&lt;p&gt;This page&amp;rsquo;s frontmatter:&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
-&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
-&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;2
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;3
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;4
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;5
-&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
-&lt;td class=&#34;lntd&#34;&gt;
-&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-yaml&#34; data-lang=&#34;yaml&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nt&#34;&gt;links&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;  &lt;/span&gt;- &lt;span class=&#34;nt&#34;&gt;title&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;GitHub&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;description&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;GitHub is the world&amp;#39;s largest software development platform.&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;website&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;https://github.com&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;image&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
-&lt;/div&gt;
-&lt;/div&gt;&lt;p&gt;&lt;code&gt;image&lt;/code&gt; field accepts both local and external images.&lt;/p&gt;
-</description>
+        <description></description>
         </item>
         <item>
         <title>Search</title>

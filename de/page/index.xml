@@ -6,7 +6,7 @@
         <description>Recent content in Pages on myblog</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>de</language>
-        <lastBuildDate>Fri, 15 Nov 2024 23:01:08 +0100</lastBuildDate><atom:link href="https://lumimimi.github.io/lumiblog/de/page/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sat, 16 Nov 2024 00:06:56 +0100</lastBuildDate><atom:link href="https://lumimimi.github.io/lumiblog/de/page/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Archives</title>
         <link>https://lumimimi.github.io/lumiblog/de/archives/</link>
         <pubDate>Fri, 15 Nov 2024 00:00:00 +0000</pubDate>
@@ -20,10 +20,37 @@
         <pubDate>Thu, 14 Nov 2024 00:00:00 +0000</pubDate>
         
         <guid>https://lumimimi.github.io/lumiblog/de/%C3%BCber-mich/</guid>
-        <description>&lt;p&gt;Hallo! Ich bin Lumi, eine begeisterte Programmieranfängerin mit großer Neugier und viel Leidenschaft. 😊&lt;/p&gt;
-&lt;p&gt;Ich habe schon immer eine große Faszination für Technik und das Schaffen von Neuem. Von Python über PHP bis hin zu CSS und HTML – ich bin Schritt für Schritt auf meiner Reise in die Programmierwelt. Dieser Blog ist mein persönliches Tagebuch, in dem ich meine Fortschritte dokumentiere. Durch das Schreiben und Teilen hoffe ich nicht nur, mein Wissen zu festigen, sondern auch anderen Lernenden weiterzuhelfen.&lt;/p&gt;
-&lt;p&gt;Für mich bedeutet das Programmieren-Lernen nicht nur, eine neue Fähigkeit zu erlernen, sondern auch, meinen Horizont zu erweitern. Die Feynman-Lernmethode ist mein treuer Begleiter: indem ich Wissen neu organisiere und wiedergebe, verstehe ich die Konzepte besser und kann sie auf meine Weise mit anderen teilen.&lt;/p&gt;
-&lt;p&gt;In der Zukunft möchte ich noch viele Projekte veröffentlichen, meine Erfahrungen teilen und gemeinsam mit euch wachsen. Wenn ihr euch für Programmierung und Kreativität interessiert, seid ihr herzlich eingeladen, immer wieder vorbeizuschauen! 🌱&lt;/p&gt;
+        <description>&lt;h1 id=&#34;hi-ich-bin-lumi-&#34;&gt;Hi! Ich bin &lt;strong&gt;Lumi&lt;/strong&gt; 👩‍💻
+&lt;/h1&gt;&lt;p&gt;Eine neugierige, begeisterte Lernende, die mit Code ihre eigene kleine Welt erschafft!✨&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;-font-color76b041was-ich-gerade-lernefont-&#34;&gt;💻 &lt;font color=&#34;#76b041&#34;&gt;Was ich gerade lerne&lt;/font&gt; 🌱
+&lt;/h3&gt;&lt;p&gt;Meine Fähigkeiten wachsen täglich! Für meine Arbeit und mein persönliches Wachstum konzentriere ich mich auf folgende Themen:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;🌟 &lt;strong&gt;PHP&lt;/strong&gt;: Eine flexible Backend-Sprache, perfekt für funktionale Websites.&lt;/li&gt;
+&lt;li&gt;🎨 &lt;strong&gt;CSS&lt;/strong&gt; und &lt;strong&gt;HTML&lt;/strong&gt;: Um Webseiten nicht nur schön, sondern auch lebendig zu machen.&lt;/li&gt;
+&lt;li&gt;📊 &lt;strong&gt;PHPSpreadsheet&lt;/strong&gt;: Komplexe Tabellen verarbeiten und Daten sichtbar machen.&lt;/li&gt;
+&lt;li&gt;🛢️ &lt;strong&gt;SQL&lt;/strong&gt;: Die Kunst, Datenbanken zu kontrollieren und die richtigen Informationen zu finden.&lt;/li&gt;
+&lt;li&gt;🔧 &lt;strong&gt;Arbeitsgetriebenes Lernen – Tempo auf MAX!&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Zusätzlich arbeite ich an meinen Sprachkenntnissen:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;🇩🇪 &lt;strong&gt;Deutsch&lt;/strong&gt; – für die kleinen und großen Herausforderungen im Alltag.&lt;/li&gt;
+&lt;li&gt;🇺🇸 &lt;strong&gt;Englisch&lt;/strong&gt; – für den Zugang zu Technologie und Programmierwissen!&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;-font-color76b041meine-reise-in-die-programmierweltfont&#34;&gt;✨ &lt;font color=&#34;#76b041&#34;&gt;Meine Reise in die Programmierwelt&lt;/font&gt;
+&lt;/h3&gt;&lt;p&gt;Schritt für Schritt tauche ich tiefer in die Welt der Programmierung ein – voller Neugier und Spaß an der Herausforderung.&lt;br&gt;
+Dieser Blog ist mein persönliches Tagebuch und eine Brücke, um Wissen zu teilen und andere zu inspirieren.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;💡 &lt;strong&gt;Schreiben und Teilen&lt;/strong&gt;: Helfen mir, Themen besser zu verstehen und andere zu unterstützen.&lt;/li&gt;
+&lt;li&gt;🔄 &lt;strong&gt;Wissen organisieren&lt;/strong&gt;: Komplexe Konzepte in meinen eigenen Worten erklären und dabei meine Fähigkeiten festigen.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;-meine-zukunftsvision-mit-euch-wachsen&#34;&gt;🌈 &lt;strong&gt;Meine Zukunftsvision: Mit euch wachsen!&lt;/strong&gt;
+&lt;/h3&gt;&lt;p&gt;Für mich ist Programmieren mehr als nur eine Fähigkeit – es ist eine aufregende Reise in eine Welt voller Möglichkeiten!&lt;br&gt;
+Ich möchte in Zukunft spannende Projekte veröffentlichen und meine Erfahrungen teilen, um gemeinsam mit euch zu wachsen.&lt;/p&gt;
+&lt;p&gt;Wenn du genauso für &lt;strong&gt;Programmierung und Kreativität&lt;/strong&gt; brennst wie ich, bist du hier genau richtig.&lt;br&gt;
+Lass uns gemeinsam mit Code die Welt entdecken und unsere Träume verwirklichen! 💻✨&lt;/p&gt;
 </description>
         </item>
         <item>
@@ -32,26 +59,7 @@
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
         <guid>https://lumimimi.github.io/lumiblog/de/links/</guid>
-        <description>&lt;p&gt;To use this feature, add &lt;code&gt;links&lt;/code&gt; section to frontmatter.&lt;/p&gt;
-&lt;p&gt;This page&amp;rsquo;s frontmatter:&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
-&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
-&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;2
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;3
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;4
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;5
-&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
-&lt;td class=&#34;lntd&#34;&gt;
-&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-yaml&#34; data-lang=&#34;yaml&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nt&#34;&gt;links&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;  &lt;/span&gt;- &lt;span class=&#34;nt&#34;&gt;title&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;GitHub&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;description&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;GitHub is the world&amp;#39;s largest software development platform.&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;website&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;https://github.com&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;image&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
-&lt;/div&gt;
-&lt;/div&gt;&lt;p&gt;&lt;code&gt;image&lt;/code&gt; field accepts both local and external images.&lt;/p&gt;
-</description>
+        <description></description>
         </item>
         <item>
         <title>Search</title>

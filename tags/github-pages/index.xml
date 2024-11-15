@@ -6,30 +6,33 @@
         <description>Recent content in Github Pages on Lumiblog</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
-        <lastBuildDate>Fri, 15 Nov 2024 23:01:08 +0100</lastBuildDate><atom:link href="https://lumimimi.github.io/lumiblog/tags/github-pages/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sat, 16 Nov 2024 00:06:56 +0100</lastBuildDate><atom:link href="https://lumimimi.github.io/lumiblog/tags/github-pages/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>GitHub Pages &#43; Hugo Blog</title>
         <link>https://lumimimi.github.io/lumiblog/p/test-chinese/</link>
         <pubDate>Fri, 15 Nov 2024 00:00:00 +0000</pubDate>
         
         <guid>https://lumimimi.github.io/lumiblog/p/test-chinese/</guid>
-        <description>&lt;img src="https://lumimimi.github.io/lumiblog/p/test-chinese/helena-hertz-wWZzXlDpMog-unsplash.jpg" alt="Featured image of post GitHub Pages &#43; Hugo Blog" /&gt;&lt;p&gt;🍃 Self-Learning Notes
-Today was another productive day! I finally figured out how to use a Hugo theme to successfully deploy my blog on GitHub Pages. Here’s a quick guide to help anyone who’s on a similar journey.&lt;/p&gt;
-&lt;p&gt;🎯 Preparation
-Before you start, you’ll need the following tools:&lt;/p&gt;
-&lt;p&gt;Hugo: A static site generator to create your blog.
-Hugo Theme: A stylish theme to make your blog look amazing.
-GitHub: For hosting your code and blog content.
-GitHub Desktop: A user-friendly Git client to sync your files with ease.
-💡 Pro Tip: Installing these tools is straightforward—just follow the instructions on their official websites.&lt;/p&gt;
-&lt;p&gt;🛠️ Configuration Process
-Setting up everything might feel a bit tricky at first. But don’t worry, here’s a super detailed tutorial to guide you through every step:&lt;/p&gt;
-&lt;p&gt;👉 Generate static pages with Hugo and host them for free on GitHub Pages(&lt;a class=&#34;link&#34; href=&#34;https://letere-gzj.github.io/hugo-stack/p/hugo/custom-blog/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;https://letere-gzj.github.io/hugo-stack/p/hugo/custom-blog/&lt;/a&gt;)
-This tutorial covers everything from the basics to deploying your blog seamlessly.&lt;/p&gt;
-&lt;p&gt;💡 Useful Tips
-Once everything is set up, you can add your local repository to GitHub Desktop. It automatically detects the name of your repository, making it super convenient to sync your changes. No more manual uploading—just a few clicks and you&amp;rsquo;re done!&lt;/p&gt;
-&lt;p&gt;✨ Conclusion
-Creating a blog with Hugo and GitHub Pages is not only cost-effective but also a fantastic way to showcase your learning journey and projects. Learning to code is so much fun—every completed project feels like a small victory!&lt;/p&gt;
+        <description>&lt;p&gt;&lt;span style=&#34;background:rgba(3, 135, 102, 0.2)&#34;&gt;🍃 Self-Learning Notes&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Today was another productive day! I finally figured out how to use a Hugo theme to successfully deploy my blog on GitHub Pages. Here’s a quick guide to help anyone who’s on a similar journey.&lt;/p&gt;
+&lt;p&gt;&lt;span style=&#34;background:rgba(3, 135, 102, 0.2)&#34;&gt;🎯 Preparation&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Before you start, you’ll need the following tools:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;font color=&#34;#76923c&#34;&gt;Hugo&lt;/font&gt;: A static site generator to create your blog.&lt;/li&gt;
+&lt;li&gt;&lt;font color=&#34;#76923c&#34;&gt;Hugo&lt;/font&gt; &lt;font color=&#34;#76923c&#34;&gt;Theme&lt;/font&gt;: A stylish theme to make your blog look amazing.&lt;/li&gt;
+&lt;li&gt;&lt;font color=&#34;#76923c&#34;&gt;GitHub&lt;/font&gt;: For hosting your code and blog content.&lt;/li&gt;
+&lt;li&gt;&lt;font color=&#34;#76923c&#34;&gt;GitHub Desktop&lt;/font&gt;: A user-friendly Git client to sync your files with ease.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;span style=&#34;background:rgba(3, 135, 102, 0.2)&#34;&gt;💡&lt;span style=&#34;background:rgba(3, 135, 102, 0.2)&#34;&gt; Pro Tip&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Installing these tools is straightforward—just follow the instructions on their official websites.&lt;/p&gt;
+&lt;p&gt;🛠️ Configuration Process&lt;/p&gt;
+&lt;p&gt;Setting up everything might feel a bit tricky at first. But don’t worry, here’s a super detailed tutorial to guide you through every step:&lt;/p&gt;
+&lt;p&gt;&lt;span style=&#34;background:rgba(3, 135, 102, 0.2)&#34;&gt;👉&lt;/span&gt;&lt;span style=&#34;background:rgba(3, 135, 102, 0.2)&#34;&gt; &lt;strong&gt;&lt;a class=&#34;link&#34; href=&#34;https://letere-gzj.github.io/hugo-stack/p/hugo/custom-blog/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Generate static pages with Hugo and host them for free on GitHub Pages&lt;/a&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;This tutorial covers everything from the basics to deploying your blog seamlessly.&lt;/p&gt;
+&lt;p&gt;&lt;span style=&#34;background:rgba(3, 135, 102, 0.2)&#34;&gt;&lt;span style=&#34;background:rgba(3, 135, 102, 0.2)&#34;&gt;💡&lt;/span&gt; &lt;span style=&#34;background:rgba(3, 135, 102, 0.2)&#34;&gt;Useful Tips&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Once everything is set up, you can add your local repository to GitHub Desktop. It automatically detects the name of your repository, making it super convenient to sync your changes. No more manual uploading—just a few clicks and you&amp;rsquo;re done!&lt;/p&gt;
+&lt;p&gt;&lt;span style=&#34;background:rgba(3, 135, 102, 0.2)&#34;&gt;✨ &lt;/span&gt;&lt;span style=&#34;background:rgba(3, 135, 102, 0.2)&#34;&gt;Conclusion&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Creating a blog with Hugo and GitHub Pages is not only cost-effective but also a fantastic way to showcase your learning journey and projects. Learning to code is so much fun—every completed project feels like a small victory!&lt;/p&gt;
 &lt;p&gt;If you’re interested in this kind of content, feel free to check back on my blog. I’ll be sharing more about my learning experiences and growth journey! 💻🌟
 🎉 Credits&lt;/p&gt;
 </description>
