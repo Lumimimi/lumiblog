@@ -6,21 +6,20 @@
         <description>Recent content in Tags on Lumi的博客</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
-        <copyright>Sophie</copyright>
-        <lastBuildDate>Wed, 09 Sep 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://lumimimi.github.io/lumiblog/zh-cn/tags/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>Test</title>
-        <link>https://lumimimi.github.io/lumiblog/zh-cn/tags/test/</link>
+        <lastBuildDate>Fri, 15 Nov 2024 20:24:56 +0100</lastBuildDate><atom:link href="https://lumimimi.github.io/lumiblog/zh-cn/tags/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Github Pages</title>
+        <link>https://lumimimi.github.io/lumiblog/zh-cn/tags/github-pages/</link>
         <pubDate>Wed, 09 Sep 2020 00:00:00 +0000</pubDate>
         
-        <guid>https://lumimimi.github.io/lumiblog/zh-cn/tags/test/</guid>
+        <guid>https://lumimimi.github.io/lumiblog/zh-cn/tags/github-pages/</guid>
         <description></description>
         </item>
         <item>
-        <title>测试</title>
-        <link>https://lumimimi.github.io/lumiblog/zh-cn/tags/%E6%B5%8B%E8%AF%95/</link>
+        <title>Hugo</title>
+        <link>https://lumimimi.github.io/lumiblog/zh-cn/tags/hugo/</link>
         <pubDate>Wed, 09 Sep 2020 00:00:00 +0000</pubDate>
         
-        <guid>https://lumimimi.github.io/lumiblog/zh-cn/tags/%E6%B5%8B%E8%AF%95/</guid>
+        <guid>https://lumimimi.github.io/lumiblog/zh-cn/tags/hugo/</guid>
         <description></description>
         </item>
         
