@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Programming on myblog</title>
+        <link>https://lumimimi.github.io/lumiblog/de/categories/programming/</link>
+        <description>Recent content in Programming on myblog</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>de</language>
+        <lastBuildDate>Sun, 17 Nov 2024 22:24:45 +0100</lastBuildDate><atom:link href="https://lumimimi.github.io/lumiblog/de/categories/programming/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>if conditional</title>
+        <link>https://lumimimi.github.io/lumiblog/de/p/if-conditional/</link>
+        <pubDate>Fri, 15 Nov 2024 00:00:00 +0000</pubDate>
+        
+        <guid>https://lumimimi.github.io/lumiblog/de/p/if-conditional/</guid>
+        <description>&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt; 1
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 2
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 3
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 4
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 5
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 6
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 7
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 8
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 9
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;10
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;11
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;12
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;13
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;14
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;15
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-gdscript3&#34; data-lang=&#34;gdscript3&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;o&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;err&#34;&gt;?&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;php&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;o&#34;&gt;//&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;Die&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;Abfrage&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;ausführen&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;und&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;das&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;Ergebnisset&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;abrufen&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;o&#34;&gt;$&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;sql&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;s2&#34;&gt;&amp;#34;SELECT DATE1 FROM Table1&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;o&#34;&gt;$&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;stmt&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;$&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;conn&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;-&amp;gt;&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;query&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;$&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;sql&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;);&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;o&#34;&gt;//&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;Eine&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;Zeile&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;Daten&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;abrufen&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;o&#34;&gt;$&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;row&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;$&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;stmt&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;-&amp;gt;&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;fetch&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;PDO&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;::&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;FETCH_ASSOC&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;);&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;o&#34;&gt;//&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;Methode&lt;/span&gt; &lt;span class=&#34;mi&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;Verwenden&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;von&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;echo&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;zur&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;Ausgabe&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;des&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;Werts&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;echo&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;$&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;row&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;[&lt;/span&gt;&lt;span class=&#34;s1&#34;&gt;&amp;#39;DATE1&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;];&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;o&#34;&gt;//&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;Methode&lt;/span&gt; &lt;span class=&#34;mi&#34;&gt;2&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;Verwenden&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;von&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;var_dump&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;zur&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;Anzeige&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;von&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;Typ&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;und&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;Wert&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;o&#34;&gt;//&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;var_dump&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;zeigt&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;sowohl&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;den&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;Typ&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;als&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;auch&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;den&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;Wert&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;der&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;Variablen&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;an&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;was&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;beim&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;Debuggen&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;hilfreich&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;ist&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;var_dump&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;$&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;row&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;[&lt;/span&gt;&lt;span class=&#34;s1&#34;&gt;&amp;#39;DATE1&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;]);&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;err&#34;&gt;?&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;&amp;gt;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Abfrage ausführen&lt;/strong&gt;:&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Verwenden Sie &lt;code&gt;$conn-&amp;gt;query($sql)&lt;/code&gt;, um die Abfrage auszuführen und das Ergebnisset zu erhalten. Dann wird &lt;code&gt;$stmt-&amp;gt;fetch(PDO::FETCH_ASSOC)&lt;/code&gt; verwendet, um eine Zeile der Daten abzurufen und in der Variablen &lt;code&gt;$row&lt;/code&gt; zu speichern.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Daten ausgeben&lt;/strong&gt;:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;echo&lt;/code&gt; wird verwendet, um den Wert des Feldes &lt;code&gt;DATE1&lt;/code&gt; auszugeben.&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;var_dump&lt;/code&gt; zeigt sowohl den Typ als auch den Wert von &lt;code&gt;DATE1 an&lt;/code&gt;, was beim Debuggen nützlich ist.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>
